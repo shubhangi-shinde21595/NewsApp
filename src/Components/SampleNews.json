@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "Brad Botkin",
+      "title": "Mavericks vs. Thunder score, highlights, takeaways: OKC surges late to even series in Game 4 win over Mavs - CBS Sports",
+      "description": "The Mavs had every opportunity go up 3-1, but the series is now tied 2-2",
+      "url": "https://www.cbssports.com/nba/news/mavericks-vs-thunder-score-highlights-takeaways-okc-surges-late-to-even-series-in-game-4-win-over-mavs/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/05/14/9e784557-99c3-4226-a554-dba43238eba5/thumbnail/1200x675/a90440956ca9e0de22a0014837b6609b/untitled-design-74.png",
+      "publishedAt": "2024-05-14T04:20:33Z",
+      "content": "We have a series. Despite leading by as many as 14 and controlling most of the game, the Dallas Mavericks were unable to close out Game 4 as it was the Oklahoma City Thunder staging a fourth-quarter … [+745 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Blinken arrives in Ukraine in show of US solidarity amid Russian attacks - Reuters",
+      "description": null,
+      "url": "https://www.reuters.com/world/europe/blinken-arrives-ukraine-show-us-solidarity-amid-russian-attacks-2024-05-14/",
+      "urlToImage": null,
+      "publishedAt": "2024-05-14T04:16:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Israel-Gaza war: UN says staff member killed in Rafah - BBC.com",
+      "description": "A member of the UN's safety team was killed in Rafah on their way to a hospital, the agency says.",
+      "url": "https://www.bbc.com/news/world-middle-east-69006734",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5BA4/production/_133306432_gettyimages-2149298460.jpg",
+      "publishedAt": "2024-05-14T03:51:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Axios",
+      "title": "Canada wildfires hit northern U.S. air quality - Axios",
+      "description": null,
+      "url": "https://www.axios.com/2024/05/13/wildfire-canada-evacuations-air-quality-us-states",
+      "urlToImage": null,
+      "publishedAt": "2024-05-14T02:58:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Krystal Hur",
+      "title": "GameStop, AMC shares skyrocket after meme stock trader posts for first time in 3 years - CNN",
+      "description": "The surprise social media return of the trader who helped ignite the meme stock frenzy in 2021 sent GameStop shares skyrocketing Monday. The surge had nothing to do with the troubled company’s fundamentals — and everything to do with a cartoon of a gamer that…",
+      "url": "https://www.cnn.com/2024/05/13/investing/gamestop-roaring-kitty/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1230856746.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-14T02:18:00Z",
+      "content": "The surprise social media return of the trader who helped ignite the meme stock frenzy in 2021 sent GameStop shares skyrocketing Monday. The surge had nothing to do with the troubled companys fundame… [+3685 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Baltimore bridge blown up in controlled demolition - BBC.com",
+      "description": "An explosion blasted away debris trapping a cargo ship in the Patapsco River.",
+      "url": "https://www.bbc.com/news/world-us-canada-69003233",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13E1F/production/_133293418_baltimorebridge.jpg",
+      "publishedAt": "2024-05-14T02:07:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "author": "Vanessa Serna",
+      "title": "Khloé Kardashian brings kids to see dad Tristan Thompson play professionally for first time - Page Six",
+      "description": "The Good American co-founder took her two kids to a Cleveland Cavaliers game to watch their father play professionally for the first time on Monday.",
+      "url": "https://pagesix.com/2024/05/13/entertainment/khloe-kardashian-brings-kids-to-see-dad-tristan-thompson-play-professionally-for-first-time/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/05/81792732.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-05-14T02:04:00Z",
+      "content": "Khloé Kardashian took her kids to a Cleveland Cavaliers game to watch their father, Tristian Thompson, play professionally for the first time. \r\nThe Good American co-founder was spotted at Rocket Mor… [+3611 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Hannah Sampson",
+      "title": "Airlines are trying to stop Biden from enforcing 'junk fees' rule - The Washington Post",
+      "description": "American, Delta, United and other airlines are asking an appeals court to overturn a new rule that would affect fees for luggage and changing reservations.",
+      "url": "https://www.washingtonpost.com/travel/2024/05/13/airlines-sue-biden-administration-junk-fees/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ENI74SB5BSVVJYBPESOCPPX3IY.JPG&w=1440",
+      "publishedAt": "2024-05-14T02:03:00Z",
+      "content": "Several of the countrys largest airlines are challenging a new Biden administration rule that would force them to disclose certain fees as part of the upfront cost of airfare. The government describe… [+3387 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eonline.com"
+      },
+      "author": "Sabba Rahbar",
+      "title": "Kelly Clarkson Addresses Ozempic Rumors After Losing Weight - E! NEWS",
+      "description": "Kelly Clarkson revealed that she did not use Ozempic to help her lose weight, but instead used another medication that helps break down sugars in her body.",
+      "url": "https://www.eonline.com/news/1401530/kelly-clarkson-addresses-ozempic-rumors-after-losing-weight",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024413/rs_1200x1200-240513183020-kelly-clarkson.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2024-05-14T01:47:51Z",
+      "content": "Ozempic is no laughing matter for the comedian. Handler revealed her \"anti-aging doctor\" prescribed her the medication without realizing what the drug was.\r\n\"I didn't even know I was on it,\" she said… [+932 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Prince William flies helicopter as Army Air Corps' new colonel-in-chief - BBC.com",
+      "description": "The Prince of Wales took off after he succeeded King Charles as colonel-in-chief of the Army Air Corps.",
+      "url": "https://www.bbc.com/news/av/uk-69005175",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1491A/production/_133305248_p0hxv7vj.jpg",
+      "publishedAt": "2024-05-14T01:39:36Z",
+      "content": "King Charles has handed over a prestigious role with the Army Air Corps to his son, the Prince of Wales.\r\nThe King became colonel-in-chief of the Army Air Corps 32 years ago - and now he has been suc… [+409 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ian Casselberry",
+      "title": "NBA playoffs: Celtics take 3-1 series lead over Cavs, who were missing Donovan Mitchell - Yahoo Sports",
+      "description": "The Boston Celtics beat a Cleveland Cavaliers team without Donovan Mitchell in Game 4 of their second-round NBA playoff series. The 109–102 win gave Boston a...",
+      "url": "https://sports.yahoo.com/nba-playoffs-celtics-take-3-1-series-lead-over-cavs-who-were-missing-donovan-mitchell-013202681.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QGMMDKYDK9jWpGi8OhJ9Rw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/b90acbb0-1190-11ef-9f6f-dba9957069bf",
+      "publishedAt": "2024-05-14T01:32:00Z",
+      "content": "Jayson Tatum scored 33 points and Jaylen Brown added 27, leading the Boston Celtics to a 109102 win over the shorthanded Cleveland Cavaliers in Game 4 of their second-round NBA playoff matchup. With … [+2960 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KCCI Des Moines"
+      },
+      "author": null,
+      "title": "Iowa Attorney General Brenna Bird at Donald Trump's hush money trial in New York - KCCI Des Moines",
+      "description": "From New York, Iowa AG Brenna Bird said, \"I am glad to stand with President Trump in New York today in opposition to the lawfare being waged against him.\"",
+      "url": "https://www.kcci.com/article/iowa-attorney-general-brenna-bird-at-donald-trump-trial-hush-money-case-new-york/60777410",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/38561eb2-cdc1-4957-a174-c0ada90f8ed3/86296fae-0d7e-4749-9f1c-93840579d21a.jpg?crop=0.791xw:0.791xh;0,0&resize=1200:*",
+      "publishedAt": "2024-05-14T00:42:00Z",
+      "content": "NEW YORK —Iowa Attorney General Brenna Bird was in a New York City courtroom Monday for Donald Trump's hush money trial.\r\nThe former president is accused of falsifying internal business records to co… [+3726 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "Bumble Is Removing Anti-Celibacy Ads Following Backlash - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/business/bumble-is-removing-anti-celibacy-ads-following-backlash-ef2001d8",
+      "urlToImage": null,
+      "publishedAt": "2024-05-14T00:28:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "ALANNA DURKIN RICHER, JOHN RABY",
+      "title": "3 men charged in Whitey Bulger's 2018 prison killing have plea deals, prosecutors say - The Associated Press",
+      "description": "Three men charged in the 2018 prison killing of notorious Boston gangster James “Whitey” Bulger have reached plea deals with prosecutors. The plea deals for Fotios “Freddy” Geas, Paul J. DeCologero and Sean McKinnon were disclosed Monday in court filings near…",
+      "url": "https://apnews.com/article/whitey-bulger-prison-killing-plea-change-8f9ee1b9d16989bd69e144c80225b1a0",
+      "urlToImage": "https://dims.apnews.com/dims4/default/87dea75/2147483647/strip/true/crop/2860x1609+0+696/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F24%2Fed%2F3af3a5bc2c00ba6f3f1bf4c505f4%2Fb8445144655447b793bc45c89bc569af",
+      "publishedAt": "2024-05-14T00:16:00Z",
+      "content": "WASHINGTON (AP) Three men charged in the 2018 prison killing of notorious Boston gangster James Whitey Bulger have reached plea deals with prosecutors, according to court papers filed Monday. \r\nThe p… [+3887 chars]"
+    },
+    {
+      "source": {
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
+      },
+      "author": "Kristopher Knox",
+      "title": "Ripple Effects of Jared Goff Contract on Dak Prescott, More NFL QB Extension Talks - Bleacher Report",
+      "description": "Jared Goff's redemption arc with the Detroit Lions is complete. Since being widely viewed as a \"throw-in\" of the trade that sent Matthew Stafford to the Los…",
+      "url": "https://bleacherreport.com/articles/10120907-ripple-effects-of-jared-goff-contract-on-dak-prescott-more-nfl-qb-extension-talks",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1715634581/iku24cjgozgash1vhqwj.jpg",
+      "publishedAt": "2024-05-13T23:26:15Z",
+      "content": "Jaguars QB Trevor LawrenceWesley Hitt/Getty Images\r\nTrevor Lawrence, the No. 1 overall pick of the 2021 NFL draft, had a disaster of a rookie campaign under short-lived head coach Urban Meyer. By the… [+1698 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NASASpaceflight.com"
+      },
+      "author": "Martin Smith",
+      "title": "Launch Roundup: Starliner prepares for second launch attempt; Falcon 9 to launch first batch into new spy constellation - NASASpaceFlight.com - NASASpaceflight.com",
+      "description": "For the second week, all eyes are on the forthcoming maiden crewed flight test (CFT)…",
+      "url": "https://www.nasaspaceflight.com/2024/05/launch-roundup-0517/",
+      "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2024/05/The-Atlas-V-N22-stack-with-Starliner-Calypso-awaits-launch-622x350.jpg",
+      "publishedAt": "2024-05-13T23:01:02Z",
+      "content": "3For the second week, all eyes are on the forthcoming maiden crewed flight test (CFT) of Boeing’s Starliner spacecraft. The first attempt was stood down last Monday following concerns with a liquid o… [+11052 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "author": "Eboni Boykin-Patterson",
+      "title": "Jerry Seinfeld's Teen Girlfriend Saga Resurfaces After Duke Walkout - The Daily Beast",
+      "description": "As social media users reflect on the student walkout, Seinfeld’s support of Israel’s war in Gaza hasn’t been the only thing they’ve dug up.",
+      "url": "https://www.thedailybeast.com/jerry-seinfelds-17-year-old-girlfriend-saga-resurfaces-after-duke-walkout",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1715623284/240513-jerry-seinfeld-shoshanna-hero_zzogub",
+      "publishedAt": "2024-05-13T23:00:41Z",
+      "content": "Jerry Seinfelds problematic relationship with a high schooler (when he was well into his 30s) has been grossing out a new generation this week, just after Duke students staged a walk out in protest o… [+5134 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Beth Mole",
+      "title": "Anti-pasteurization crowd reaffirms love of raw milk despite bird flu outbreak - Ars Technica",
+      "description": "Raw milk fans called warnings \"fear mongering,\" despite 52% fatality rate in humans.",
+      "url": "https://arstechnica.com/science/2024/05/anti-pasteurization-crowd-reaffirms-love-of-raw-milk-despite-bird-flu-outbreak/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1566603677-760x380.jpeg",
+      "publishedAt": "2024-05-13T22:58:27Z",
+      "content": "Enlarge/ A glass of fresh raw milk in the hand of a farmer.\r\n94\r\nTo drink raw milk at any time is to flirt with dangerous germs. But, amid an unprecedented outbreak of H5N1 bird flu in US dairy cows,… [+5589 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "First M2 iPad Air reviews call it 'the iPad to get' - 9to5Mac",
+      "description": "Following the announcement of new iPads last week, the press has just published the first reviews for the M4 iPad...",
+      "url": "https://9to5mac.com/2024/05/13/first-m2-ipad-air-reviews/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/m2-ipad-air-vs-m1-ipad-air-accessories.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-13T22:22:00Z",
+      "content": "Following the announcement of new iPads last week, the press has just published the first reviews for the M4 iPad Pro. We also now have reviews for the M2 iPad Air, and they praise the balance betwee… [+3004 chars]"
+    }
+  ]
+}
